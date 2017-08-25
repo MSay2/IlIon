@@ -1,0 +1,15 @@
+Ces captures d'écran sont de la version 9.5 qui sera bientôt disponible
+
+These screenshots are of the version 9.5 which will be available soon
+
+![alt tag](https://img15.hostingpics.net/pics/702429001.png)
+![alt tag](https://img15.hostingpics.net/pics/300453002.png)
+![alt tag](https://img15.hostingpics.net/pics/325807003.png)
+![alt tag](https://img15.hostingpics.net/pics/471086004.png)
+![alt tag](https://img15.hostingpics.net/pics/522910005.png)
+![alt tag](https://img15.hostingpics.net/pics/353757006.png)
+![alt tag](https://img15.hostingpics.net/pics/862622007.png)
+![alt tag](https://img15.hostingpics.net/pics/549013008.png)
+![alt tag](https://img15.hostingpics.net/pics/450254009.png)
+![alt tag](https://img15.hostingpics.net/pics/467186010.png)
+    
