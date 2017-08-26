@@ -10,6 +10,6 @@ These screenshots are of the version 9.5 which will be available soon
 ![alt tag](https://img15.hostingpics.net/pics/353757006.png)
 ![alt tag](https://img15.hostingpics.net/pics/862622007.png)
 ![alt tag](https://img15.hostingpics.net/pics/549013008.png)
-![alt tag](https://img15.hostingpics.net/pics/450254009.png)
+![alt tag](https://img11.hostingpics.net/pics/417180009.png)
 ![alt tag](https://img15.hostingpics.net/pics/467186010.png)
     
