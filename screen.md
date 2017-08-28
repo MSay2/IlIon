@@ -1,7 +1,3 @@
-Ces captures d'écran sont de la version 9.5 qui sera bientôt disponible
-
-These screenshots are of the version 9.5 which will be available soon
-
 ![alt tag](https://img15.hostingpics.net/pics/702429001.png)
 ![alt tag](https://img15.hostingpics.net/pics/300453002.png)
 ![alt tag](https://img15.hostingpics.net/pics/325807003.png)
@@ -12,4 +8,3 @@ These screenshots are of the version 9.5 which will be available soon
 ![alt tag](https://img15.hostingpics.net/pics/549013008.png)
 ![alt tag](https://img11.hostingpics.net/pics/417180009.png)
 ![alt tag](https://img15.hostingpics.net/pics/467186010.png)
-    
