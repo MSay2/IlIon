@@ -1,4 +1,6 @@
-# IlIon
+*IlIon*
+
+Follow the official repository of IlIon : http://www.phonandroid.com/forum/ilion-un-icone-pack-t168896.html
 
 READ BEFORE CREATING A NEW BUG REPORT!
 
